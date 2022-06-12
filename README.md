@@ -1,5 +1,5 @@
-# Visma-Internship-2022
-Java developer task for Visma internship 2022
+# Visma internship 2022
+Java developer task for Visma internship 2022.
 
 ## Security
 Endpoints are secured using JWT token. In order to access endpoints, register a new user in ```localhost:8080/api/auth/register``` or login in ```localhost:8080/api/auth/login```
